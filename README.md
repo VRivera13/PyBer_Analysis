@@ -6,7 +6,7 @@ Based on the ride share data collected for city types, urban, suburban, and rura
 ## Results
 The collected data shows that the Urban city type tends to have more rides that the other city types.    The 2nd city type, Suburban, has 1000 less rides than the Urban city type.    The total number of drivers in the Urban city type topple the Suburban and Rural city types, with a large total of 2405 drivers, to the 490 drivers in Suburban city type and 78 drivers in the Rural city type.  That is a significant difference.    The population tends to be larger in Urban city types which would be the reason the differnces in rides and drivers is so much larger that the other city types.   Also noticed that even though the Urban city types have more rides and drivers, the average fare per driver dropps significantly compare to Rural city types.   
 
-![image](https://user-images.githubusercontent.com/77902259/112755944-f2798b80-8fb0-11eb-8b87-03d236b3cca6.png)
+![screenshot](https://github.com/VRivera13/PyBer_Analysis/blob/main/Resources/Screenshot%202021-03-28%20101825.png)
 
 
 ## Summary
